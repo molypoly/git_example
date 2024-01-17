@@ -3,3 +3,5 @@ this is an example, can you believe that I actaully got this working!?
 I have now edited this filel locally and uploaded it to my repository on gitHub!
 
 The basketball BRANCH is where I made this edit MUAHAHAHAHA
+
+making changes to create a merge conflict
